@@ -16,7 +16,7 @@ regions that are intended for use in assessment. Lower-case regions
 should not be used.
 
 `info/`   
-Contains one file, ids.txt, which is a list of set identifiers used as filenames in `ref/` and `in/`.
+Contains one file, `ids.txt`, which is a list of set identifiers used as filenames in `ref/` and `in/`.
 
 Accuracy of alignments made by an algorithm can be asssessed by `qscore` (https://github/rcedgar/qscore).
 
