@@ -18,7 +18,7 @@ should not be used.
 `info/`   
 Contains one file, `ids.txt`, which is a list of set identifiers used as filenames in `ref/` and `in/`.
 
-Accuracy of alignments made by an algorithm can be asssessed by `qscore` (https://github/rcedgar/qscore).
+Accuracy of alignments made by an algorithm can be asssessed by `qscore` (https://github.com/rcedgar/qscore).
 
 # Reference
 R.C. Edgar (2021), MUSCLE v5 enables improved estimates of phylogenetic tree confidence by ensemble boostrapping, biorxiv.
